@@ -1,2 +1,5 @@
 test
 train
+*.pth
+*.csv
+runs
